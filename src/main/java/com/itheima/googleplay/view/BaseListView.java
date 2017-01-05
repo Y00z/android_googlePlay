@@ -1,11 +1,11 @@
 package com.itheima.googleplay.view;
 
-import com.itheima.googleplay.R;
-import com.itheima.googleplay.tools.UiUtils;
-
 import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.ListView;
+
+import com.itheima.googleplay.R;
+import com.itheima.googleplay.tools.UiUtils;
 
 public class BaseListView extends ListView {
 

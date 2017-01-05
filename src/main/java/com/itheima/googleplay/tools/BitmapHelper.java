@@ -1,7 +1,5 @@
 package com.itheima.googleplay.tools;
 
-import android.content.Context;
-
 import com.lidroid.xutils.BitmapUtils;
 
 public class BitmapHelper {
