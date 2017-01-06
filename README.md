@@ -5,7 +5,7 @@
 ##运行
 > * app需要数据源，解压WebInfos.rar压缩包到手机根目录。
 * 链接: http://pan.baidu.com/s/1eShzDGe 密码: trvm
-* 然后安装源代码中的http服务器。直接启动就ok了。
+* 然后安装源代码中的http服务器apk。直接启动就ok了。
 
 
 ![动态](https://raw.githubusercontent.com/Y00z/android_googlePlay/master/image/android_google_01.gif)
